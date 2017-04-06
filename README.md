@@ -1,2 +1,2 @@
 # Machine_Learning
-THis repo contains my work from Udacity's MLND
+THis repo contains the projects @Udacity's MLND
